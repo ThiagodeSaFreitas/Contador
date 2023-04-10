@@ -1,0 +1,2 @@
+# Contador
+ Intervalo_contagem
